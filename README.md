@@ -1,1 +1,3 @@
-# Flappy-Bird
+# Flappy-Bird using Genetic Algorithm
+
+The project is an initiative to implement an Artificial Intelligence powered agent in order to play the game Flappy Bird with high yield. The Neural Network is trained using a Genetic Algorithm for learning which is inspired from the work of Charles Darwin, the survival of the fittest. The major issue with such a project is that the growth rate has been observed to be very slow initially in most naive approaches. However, by initialising the primary group of individuals using a concise mathematical model ensures a drastically reduced search space thus a remarkably higher initial growth rate can been achieved. This leads to an ascended rate of evolution thus yielding much better individuals.
